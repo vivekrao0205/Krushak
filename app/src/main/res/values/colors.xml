@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="app">#1E1F22</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#169955</color>
+    <color name="lightGrey">#EFEFEF</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="darkGrey">#616161</color>
+    <color name="colorPrimary">#4CAF50</color> <!-- A green shade -->
+
+    <!-- Primary Dark color for your app (optional, for status bar) -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- A darker green shade -->
+
+    <!-- Accent color for your app -->
+    <color name="colorAccent">#FF5722</color> <!-- A deep orange shade -->
+
+    <!-- Other colors -->
+    <color name="colorPrimaryLight">#C8E6C9</color> <!-- A light green shade (optional) -->
+    <color name="colorPrimaryText">#FFFFFF</color> <!-- White color for text on primary color -->
+    <color name="colorSecondaryText">#757575</color> <!-- A light grey color for secondary text -->
+    <color name="colorDivider">#BDBDBD</color>
+
+
+</resources>

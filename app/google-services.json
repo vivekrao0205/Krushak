@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028648146735",
+    "project_id": "krushak-60a3a",
+    "storage_bucket": "krushak-60a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028648146735:android:f945d39a14e9de2f4073da",
+        "android_client_info": {
+          "package_name": "com.acdevs.krushak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJI9vHUIHkzQk50Stw-KAptmCBKnRucpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

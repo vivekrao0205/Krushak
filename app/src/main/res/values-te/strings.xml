@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">కృషక</string>
+    <string name="search_hint">తాజా ఉత్పత్తులను శోధించండి...</string>
+    <string name="category_text">వర్గాలు</string>
+    <string name="popular_items">ప్రసిద్ధ ఉత్పత్తులు</string>
+    <string name="see_all">అన్ని చూడండి</string>
+    <string name="explorer">ఎక్స్‌ప్లోరర్</string>
+    <string name="wishlist">ఇచ్చుకోదగినవి</string>
+    <string name="profile">ప్రొఫైల్</string>
+    <string name="cart">కార్టు</string>
+    <string name="add_product">అదే పద్ధతిలో అమ్మండి</string>
+    <string name="category_1">పండ్లు</string>
+    <string name="category_2">కూరగాయలు</string>
+    <string name="category_3">పప్పుల</string>
+    <string name="category_4">పాల ఉత్పత్తులు</string>
+    <string name="category_5">ఎండిన పండ్లు</string>
+    <string name="product_1">ఆలుగడ్డ</string>
+    <string name="product_2">టమాటో</string>
+    <string name="product_3">బీట్రూట్</string>
+    <string name="product_4">కర్రిగడ్డ</string>
+    <string name="product_5">కావలిఫ్లవర్</string>
+    <string name="product_6">కొత్తిమీర</string>
+    <string name="product_7">ఉల్లిపాయ</string>
+    <string name="product_8">కాప్సికం</string>
+    <string name="name">మీ పేరు</string>
+    <string name="proceed">కార్ట్‌కి కొనసాగించండి</string>
+    <string name="logout">లాగ్‌ఔట్</string>
+    <string name="editprofile">ప్రొఫైల్‌ని సవరించు</string>
+    <string name="bio">మీకు సంబంధించిన సంక్షిప్త జీవన చరిత్ర</string>
+    <string name="bio1">జీవన చరిత్ర</string>
+    <string name="phone">ఫోన్ నంబర్</string>
+    <string name="email">ఈమెయిల్</string>
+    <string name="address">మీ చిరునామా</string>
+</resources>

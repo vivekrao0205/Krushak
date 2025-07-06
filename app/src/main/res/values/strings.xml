@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Krushak</string>
+    <string name="search_hint">Search for fresh produce...</string>
+    <string name="category_text">Categories</string>
+    <string name="popular_items">Popular products</string>
+    <string name="see_all">See all</string>
+    <string name="explorer">Explorer</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="add_product">Sell</string>
+    <string name="category_1">Fruits</string>
+    <string name="category_2">Vegetables</string>
+    <string name="category_3">Pulses</string>
+    <string name="category_4">Dairy</string>
+    <string name="category_5">Dry Fruits</string>
+    <string name="product_1">Potato</string>
+    <string name="product_2">Tomato</string>
+    <string name="product_3">Beetroot</string>
+    <string name="product_4">Ladies Finger</string>
+    <string name="product_5">Cauliflower</string>
+    <string name="product_6">Coriander</string>
+    <string name="product_7">Onion</string>
+    <string name="product_8">Capsicum</string>
+    <string name="name">Your name</string>
+    <string name="proceed">Proceed to cart</string>
+    <string name="logout">Logout</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="bio">A short bio of yourself</string>
+    <string name="bio1">Bio</string>
+    <string name="phone">Phone NUmber</string>
+    <string name="email">Email</string>
+    <string name="address">Your Address</string>
+
+</resources>
