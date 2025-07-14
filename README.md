@@ -18,10 +18,10 @@ XML for UI Design
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](1(2).png)
+![Home Screen](./1%20(2).png)
 
 ### 🛒 Product Listing
-![Product Listing](2.png)
+![Product Listing](./2.png)
 
 
 ### 🏠 Home Screen
