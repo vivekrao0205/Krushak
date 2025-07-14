@@ -15,9 +15,14 @@ Java
 Firebase / SQLite (optional)
 XML for UI Design
 
-## 📱 App Screenshot
-
 ## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](1(2).png)
+
+### 🛒 Product Listing
+![Product Listing](2.png)
+
 
 ### 🏠 Home Screen
 ![Home Screen](1(2).png)
